@@ -7,7 +7,7 @@
 
 Automatically randomizes your kits in Haxball. Fun, fast, and easy to use! 🚀💥🎮
 
-// By TLS/Teleese
+By TLS/Teleese
 
 ---
 
@@ -34,6 +34,7 @@ Automatically randomizes your kits in Haxball. Fun, fast, and easy to use! 🚀�
 * The script runs automatically once pasted.
 * Watch as everyone’s kit changes randomly 🎨👕🩳
 * No extra configuration needed! ✨
+* Use !Smart if you want to reload the Kits
 
 ---
 
